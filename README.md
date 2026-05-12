@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 A Little About Me
+###  A Little About Me
 
 I am a passionate developer from India, currently pursuing my B.Tech in Computer Science & Engineering. I love bridging the gap between frontend aesthetics and backend architecture, with a strong interest in integrating AI into web applications.
 
