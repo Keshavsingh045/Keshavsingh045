@@ -49,19 +49,19 @@ I'm a passionate Full Stack Developer from India, bridging the gap between beaut
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/2023-Outlier_AI-0f172a?style=for-the-badge&labelColor=7c3aed&color=0f172a" /><br/><br/>
+      <img src="https://img.shields.io/badge/2024-Outlier_AI-0f172a?style=for-the-badge&labelColor=7c3aed&color=0f172a" /><br/><br/>
       <b>Freelance Data Analyst</b><br/>
       <sub>Python · Data Analysis · AI Evaluation</sub>
     </td>
     <td align="center" width="4%">→</td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/2024-Hexadecimal_Software-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" /><br/><br/>
+      <img src="https://img.shields.io/badge/2025-Hexadecimal_Software-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" /><br/><br/>
       <b>Frontend Developer</b><br/>
       <sub>React · UI/UX · CSS · Tailwind</sub>
     </td>
     <td align="center" width="4%">→</td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/2025-Taxmann_Technologies-0f172a?style=for-the-badge&labelColor=059669&color=0f172a" /><br/><br/>
+      <img src="https://img.shields.io/badge/2026-Taxmann_Technologies-0f172a?style=for-the-badge&labelColor=059669&color=0f172a" /><br/><br/>
       <b>MERN Stack Intern</b><br/>
       <sub>Node.js · MongoDB · Express · AWS</sub>
     </td>
