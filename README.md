@@ -1,82 +1,154 @@
-# Hi there, I'm Keshav Kundan 👋
- 
-<!-- Header Section with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Keshav+Kundan+👋;Full+Stack+(MERN)+Developer;AI+%26+Data+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Keshav%20Kundan&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+Scalable+Web+Applications;🧠+Integrating+AI+into+Everything;⚡+MERN+Stack+%7C+Next.js+%7C+AWS;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<br/>
+<!-- PORTFOLIO BADGE — TOP & PROMINENT -->
+<a href="https://keshav-portfolio-delta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Now%20→-38BDF8?style=for-the-badge&labelColor=0f172a&logoColor=white" height="38" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Keshavsingh045">
+  <img src="https://komarev.com/ghpvc/?username=Keshavsingh045&label=Profile+Views&color=0ea5e9&style=for-the-badge" height="38" alt="Profile Views" />
+</a>
 </div>
-<p align="center">
-  <a href="https://keshav-portfolio-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-38BDF8?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Keshavsingh045">
-    <img src="https://komarev.com/ghpvc/?username=Keshavsingh045&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+<br/>
 ---
  
-### 🙋‍♂️ A Little About Me
+### 🧑‍💻 About Me
  
-I am a passionate developer from India, currently pursuing my B.Tech in Computer Science & Engineering. I love bridging the gap between frontend aesthetics and backend architecture, with a strong interest in integrating AI into web applications.
+> *"I don't just write code — I architect experiences."*
  
-- 💼 **Current Role:** MERN Stack Intern @ **Taxmann Technologies Pvt. Ltd.**
-- 💻 **Previous Experience:** Frontend Developer @ **Hexadecimal Software** | Freelance Data Analyst @ **Outlier AI**
-- 🎓 **Education:** B.Tech CSE @ Deenbandhu Chhotu Ram University (Class of 2026)
-- 🎯 **Currently Focusing On:** Advanced System Design, Next.js, and GenAI Integrations.
-- ⚡ **Fun Fact:** I love building tools that automate boring tasks!
----
+I'm a passionate **Full Stack Developer** from 🇮🇳 India, bridging the gap between beautiful frontends and robust backends — with a growing obsession for **AI-powered web apps**.
  
-### 💻 My Tech Arsenal
- 
-**Frontend Technologies:**<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- 
-**Backend & Database:**<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- 
-**Tools & Cloud:**<br>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+```yaml
+name        : Keshav Kundan
+role        : Full Stack (MERN) Developer
+location    : India 🇮🇳
+education   : B.Tech CSE @ DCRUST (Class of 2026)
+current_job : MERN Stack Intern @ Taxmann Technologies
+portfolio   : https://keshav-portfolio-delta.vercel.app/
+focus_areas :
+  - Advanced System Design
+  - Next.js & Server Components
+  - Generative AI Integrations
+superpower  : "Automating boring tasks with elegant code ⚡"
+```
  
 ---
  
-### 📈 GitHub Analytics
+### 💼 Experience Timeline
+ 
+```
+2023 ─────────────────────────────────────────────────────── 2026
+ 
+  [Outlier AI]          [Hexadecimal Software]       [Taxmann Tech]
+  Freelance             Frontend Developer            MERN Stack Intern
+  Data Analyst          React · UI/UX · CSS           Node · MongoDB · AWS
+     ●────────────────────────●────────────────────────●
+```
+ 
+---
+ 
+### 🛠️ Tech Arsenal
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshavsingh045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshavsingh045&theme=tokyonight&hide_border=true&background=00000000" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavsingh045&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="60%" />
+**⚡ Frontend**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+**🔧 Backend & Database**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ 
+**☁️ Tools & Cloud**
+ 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ 
 </div>
 ---
  
-### 📫 Let's Connect
- 
-Feel free to reach out for collaborations, open-source projects, or just a tech chat!
+### 📊 GitHub Analytics
  
 <div align="center">
-  <a href="https://keshav-portfolio-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-keshav--portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/keshav-kundan-726071252">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rr2533562@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshavsingh045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshavsingh045&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
 </div>
-<br>
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavsingh045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" width="55%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshavsingh045&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+---
+ 
+### 🐍 My Contribution Snake
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+---
+ 
+### 🔥 What I'm Currently Doing
+ 
+```javascript
+const keshav = {
+  currently: {
+    learning  : ["System Design", "Next.js 14", "LangChain", "Vector DBs"],
+    building  : ["AI-powered web tools", "Scalable APIs", "Dev automation"],
+    exploring : ["GenAI integrations", "Edge computing", "Microservices"]
+  },
+  askMeAbout : ["MERN Stack", "React", "REST APIs", "MongoDB", "AWS basics"],
+  portfolio  : "https://keshav-portfolio-delta.vercel.app/",
+  funFact    : "I automate tasks faster than I do them manually 😅"
+};
+```
+ 
+---
+ 
+### 🤝 Let's Connect & Build Together
+ 
+<div align="center">
+<a href="https://keshav-portfolio-delta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-keshav--portfolio--delta.vercel.app-38BDF8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" />
+</a>
+<br/><br/>
+ 
+<a href="https://www.linkedin.com/in/keshav-kundan-726071252" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:rr2533562@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/Keshavsingh045" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
+---
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+*"Code is like humor. When you have to explain it, it's bad."*
+ 
+**⭐ Star my repos if you find them useful — it motivates me to build more! ⭐**
+ 
+</div>
+ 
