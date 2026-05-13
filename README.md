@@ -46,37 +46,49 @@ I'm a passionate Full Stack Developer from India, bridging the gap between beaut
 </table>
 
 💼 Experience Timeline
-2023 ─────────────────────────────────────────────────────── 2026
-
-  [Outlier AI]          [Hexadecimal Software]       [Taxmann Tech]
-  Freelance             Frontend Developer            MERN Stack Intern
-  Data Analyst          React · UI/UX · CSS           Node · MongoDB · AWS
-     ●────────────────────────●────────────────────────●
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2023-Outlier_AI-0f172a?style=for-the-badge&labelColor=7c3aed&color=0f172a" /><br/><br/>
+      <b>Freelance Data Analyst</b><br/>
+      <sub>Python · Data Analysis · AI Evaluation</sub>
+    </td>
+    <td align="center" width="4%">→</td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2024-Hexadecimal_Software-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" /><br/><br/>
+      <b>Frontend Developer</b><br/>
+      <sub>React · UI/UX · CSS · Tailwind</sub>
+    </td>
+    <td align="center" width="4%">→</td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2025-Taxmann_Technologies-0f172a?style=for-the-badge&labelColor=059669&color=0f172a" /><br/><br/>
+      <b>MERN Stack Intern</b><br/>
+      <sub>Node.js · MongoDB · Express · AWS</sub>
+    </td>
+  </tr>
+</table>
 
 🛠️ Tech Arsenal
-<div align="center">
-⚡ Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🔧 Backend & Database
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-☁️ Tools & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+<h4>⚡ Frontend</h4>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<h4>🔧 Backend &amp; Database</h4>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<h4>☁️ Tools &amp; Cloud</h4>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 📊 GitHub Analytics
 <div align="center">
