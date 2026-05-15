@@ -45,21 +45,21 @@ when i'm not coding i'm thinking about coding. it's a problem.
 <table width="100%">
   <tr>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2023-Outlier_AI-7c3aed?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2024-Outlier_AI-7c3aed?style=for-the-badge" /><br/><br/>
       <b>Freelance Data Analyst</b><br/>
       <sub>Python · Data Analysis · AI Eval</sub><br/><br/>
       <sub>my first real bag 💰</sub>
     </td>
     <td align="center" width="4%">➜</td>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2024-Hexadecimal_Software-0284c7?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2025-Hexadecimal_Software-0284c7?style=for-the-badge" /><br/><br/>
       <b>Frontend Developer</b><br/>
       <sub>React · Tailwind · UI/UX</sub><br/><br/>
       <sub>where i fell in love with react 💙</sub>
     </td>
     <td align="center" width="4%">➜</td>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2025-Taxmann_Technologies-059669?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2026-Taxmann_Technologies-059669?style=for-the-badge" /><br/><br/>
       <b>MERN Stack Intern</b><br/>
       <sub>Node · MongoDB · Express · AWS</sub><br/><br/>
       <sub>full stack era unlocked 🔓</sub>
@@ -125,7 +125,7 @@ open to collabs, internships, freelance, or just vibing about tech
   <img src="https://img.shields.io/badge/LinkedIn-let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:rr2533562@gmail.com">
+<a href="mailto:">
   <img src="https://img.shields.io/badge/Gmail-hit%20me%20up-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
