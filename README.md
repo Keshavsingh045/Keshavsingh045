@@ -45,21 +45,21 @@ when i'm not coding i'm thinking about coding. it's a problem.
 <table width="100%">
   <tr>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2024-Outlier_AI-7c3aed?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2023-Outlier_AI-7c3aed?style=for-the-badge" /><br/><br/>
       <b>Freelance Data Analyst</b><br/>
       <sub>Python · Data Analysis · AI Eval</sub><br/><br/>
       <sub>my first real bag 💰</sub>
     </td>
     <td align="center" width="4%">➜</td>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2025-Hexadecimal_Software-0284c7?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2024-Hexadecimal_Software-0284c7?style=for-the-badge" /><br/><br/>
       <b>Frontend Developer</b><br/>
       <sub>React · Tailwind · UI/UX</sub><br/><br/>
       <sub>where i fell in love with react 💙</sub>
     </td>
     <td align="center" width="4%">➜</td>
     <td align="center" width="32%">
-      <img src="https://img.shields.io/badge/2026-Taxmann_Technologies-059669?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/2025-Taxmann_Technologies-059669?style=for-the-badge" /><br/><br/>
       <b>MERN Stack Intern</b><br/>
       <sub>Node · MongoDB · Express · AWS</sub><br/><br/>
       <sub>full stack era unlocked 🔓</sub>
@@ -73,26 +73,38 @@ when i'm not coding i'm thinking about coding. it's a problem.
     <td valign="top" width="33%">
       <h4 align="center">⚡ Frontend</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&perline=4" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
+      <p align="center"><sub>the pretty stuff ✨</sub></p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">🔧 Backend &amp; DB</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&perline=4" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
+      <p align="center"><sub>where the magic happens 🔮</sub></p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">☁️ Tools &amp; Cloud</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel&perline=4" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
+      <p align="center"><sub>the support system 🛸</sub></p>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>the pretty stuff ✨</sub></td>
-    <td align="center"><sub>where the magic happens 🔮</sub></td>
-    <td align="center"><sub>the support system 🛸</sub></td>
   </tr>
 </table>
 
@@ -125,7 +137,7 @@ open to collabs, internships, freelance, or just vibing about tech
   <img src="https://img.shields.io/badge/LinkedIn-let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:">
+<a href="mailto:rr2533562@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-hit%20me%20up-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
